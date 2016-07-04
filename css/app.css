@@ -30,7 +30,8 @@ ul {
 
 li a {
     display: inline;
-    color: white;
+    color: #2A0C20;
+    ;
     text-align: center;
     padding: 20px;
     text-decoration: none;
@@ -55,6 +56,11 @@ li a:hover {
 .footer {
     padding-bottom: 50px;
     /*background-color: gold;*/
+}
+
+.button {
+    width: 100%;
+    border-radius: 2%;
 }
 
 
@@ -132,6 +138,13 @@ img:hover + span {
     text-align: center;
     background-color: black;
     opacity: .7
+}
+
+
+/*Form*/
+
+form input {
+    background-color: purple;
 }
 
 

@@ -33,10 +33,10 @@
 
 
     <div class="row materialinfo">
-        <div class="small-12 medium-12 large-6 column large-centered medium-centered contax">
+        <div class="large-8 medium-8 small-12 column large-centered medium-centered contax">
             <div class="row expanded">
-
-                <div class="small-12 columns">
+                <br>
+                <div class="small-7 columns">
 
                     <form class="cf" action="//formspree.io/jimgitari@gmail.com" method="POST">
 
@@ -48,20 +48,15 @@
 
                         <input type="submit" value="Send" class="button">
                     </form>
-                </div>
-            </div>
+ </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="small-12 medium-12 large-2 column large-centered medium-centered ">
-
-            <div class="small-12 medium-4 large-4 columns">
-                <a href="https://github.com/gitalry"><i class="fa fa-github-square fa-2x" aria-hidden="true"></i></a> </div>
-            <div class="small-12 medium-4 large-4 columns">
-                <a href="https://ke.linkedin.com/in/james-gitari-773435ba"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a> </div>
-            <div class="small-12 medium-4 large-4 columns">
-                <a href="https://www.facebook.com/gitalry"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
-
+              <div class="row ">
+        <div class="large-8 medium-8 small-12 column large-centered medium-centered contax">
+              <a href="https://github.com/gitalry"><i class="fa fa-github-square fa-2x" aria-hidden="true"></i></a>
+                    <br>
+                    <a href="https://ke.linkedin.com/in/james-gitari-773435ba"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a><br>
+ <a href="https://www.facebook.com/gitalry"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
+                </div>
             </div>
         </div>
     </div>
